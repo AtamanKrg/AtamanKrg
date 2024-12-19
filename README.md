@@ -1,4 +1,1 @@
-<h1 align="center">Hi there, I'm <a target="_blank">Igor</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, C# developer from Saint-Petersburg, Russia 🇷🇺</h3>on ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtamanKrg)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Igor+;Computer+science+student%2C+C%23+developer+from+Saint-Petersburg%2C+Russia+%F0%9F%87%B7%F0%9F%87%BA)](https://git.io/typing-svg)
